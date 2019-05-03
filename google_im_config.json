@@ -1,0 +1,2 @@
+
+C:\complete\path\to>googleimagesdownload --keywords "northern lights, aurora borealis" --limit 200 --chromedriver "C:\complete\path\to\chromedriver.exe"
